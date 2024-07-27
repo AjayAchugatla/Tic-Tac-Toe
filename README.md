@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/AjayAchugatla/Tic-Tac-Toe.git
 2. **Navigate to the project directory**
 
 
